@@ -8,6 +8,6 @@ build:
 runs-on: ubuntu-latest
 steps:
 - name: Checkout Repository
-uses: actions/checkout@v4
+uses: yapck-wm23-bit/elearningt
 - name: Build Project
 run: echo "Building the project..."
